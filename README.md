@@ -16,6 +16,7 @@ Linux
    ./dino_game
 
 Kontrole u igri:
+
 SPACE – skok
 SPACE + SPACE – dupli skok (za velike kaktuse)
 P – pauza / nastavak
