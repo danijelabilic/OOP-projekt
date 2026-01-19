@@ -18,14 +18,21 @@ Linux
 Kontrole u igri:
 
 SPACE – skok
+
 SPACE + SPACE – dupli skok (za velike kaktuse)
+
 P – pauza / nastavak
+
 ESC – izlaz iz igre
 
 Ovisnosti:
+
 Samostalni C++ projekt bez vanjskih biblioteka.
+
 Projekt radi na Windows i Linux konzoli.
 
 Rješenja za moguće probleme:
+
 to_string nije prepoznat → Postaviti standard C++17 ili noviji u Visual Studiju.
+
 Problemi s _kbhit i _getch na Linuxu → Implementirano u Utils.cpp za cross-platform kompatibilnost.
